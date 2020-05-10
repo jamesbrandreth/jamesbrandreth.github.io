@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Memelord"
+date:   2020-04-20 22:30:00 +0100
+categories: jekyll update
+repo: "jamesbrandreth/memelord"
+---
+
+I wrote this to play around with OCR through Tesseract. It reads the text in memes and makes a folder of them seaerchable. It is currently a trivial bit of programming - I might try to add unsupervised detection of different meme formats at some point, and hook it up to a GUI.

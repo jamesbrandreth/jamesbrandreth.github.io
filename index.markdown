@@ -1,9 +1,11 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
-title: "James Brandreth"
+layout: page
+title: 
+permalink: /
 ---
 
-Hello
+I'm a software developer in London.
+
+I studied Engineering and Computer Science at Warwick, and I work in the City.
+
+I'm interested in machine learning and robotics/control. I've some of the code from projects I've been playing with on here.
