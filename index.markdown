@@ -2,6 +2,7 @@
 layout: page
 title: 
 permalink: /
+image: /assets/me.jpg
 ---
 
 I'm a software developer in London.
